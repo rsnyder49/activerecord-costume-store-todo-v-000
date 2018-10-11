@@ -13,4 +13,5 @@ class CreateHauntedHouses < ActiveRecord::Migration
       t.string :description
     end
   end 
+  
 end 
